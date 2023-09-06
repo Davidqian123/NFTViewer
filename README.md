@@ -1,3 +1,15 @@
+# NFTViewer: NFT Price Visualization
+## Hightlights:
+
+• Built a NFT dashboard to search, view and analyze NFT assets using React
+
+• Used AntD UI Component Library to boost client side development
+
+• Used Moralis API to fetch NFT relevant data(price, name, description etc.)
+
+• Built NFT price chart UI with Recharts
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
